@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d22c6d4"],{f2d6:function(n,e,t){"use strict";t.r(e);var o=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("q-page",{attrs:{padding:""}},[n._v("\n  Mon blog.... En cours de construction\n")])},a=[],c={name:"PageBlog"},l=c,r=t("2877"),s=Object(r["a"])(l,o,a,!1,null,null,null);e["default"]=s.exports}}]);
